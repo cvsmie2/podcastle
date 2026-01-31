@@ -6,6 +6,8 @@ Here's the thing though - podcasting in 2026 doesn't have to be that complicated
 
 Let me tell you about Podcastle, a platform that's basically turned the whole "you need a professional studio" idea on its head. It's one of those tools that makes you wonder why we were torturing ourselves with the old way of doing things for so long.
 
+<img width="3787" height="1806" alt="image" src="https://github.com/user-attachments/assets/0ff2d5b5-d9b1-457b-b319-8838256278a6" />
+
 ## What Actually Is Podcastle?
 
 Podcastle is an AI-powered audio and video creation platform that handles everything from recording to editing to publishing. The whole enchilada, basically. It's browser-based, so you don't need to download anything or check if your computer can handle it. Just open your browser and you're good to go.
